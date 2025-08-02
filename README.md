@@ -8,7 +8,7 @@ This project simulates various CPU scheduling algorithms, commonly used in opera
 - **Round-Robin (RR)**
 - **Priority with Round-Robin Scheduling**
 
-The program reads process data from an input file (`data.txt`), where each process is defined by its name, arrival time, burst time, and priority. Based on user selection, the program applies the chosen scheduling algorithm to execute the processes. The output includes execution history and key statistics such as average waiting time and turnaround time.
+The program reads process data from an input file (`data.txt`), where each process is defined by its name, arrival time, burst time, and priority. Based on user selection, the program applies the chosen scheduling algorithm to execute the processes. The output includes execution history and key statistics such as average waiting time and turnaround time. 
 
 ## Algorithm Test Results
 
